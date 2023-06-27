@@ -82,4 +82,4 @@ async def help(ctx):
     help_message = "\n".join(commands_list)
     await ctx.send(f"```{help_message}```")
 
-bot.run("MTEyMzIyMzE1NzcyNjI0OTAwMA.Gi9_Cj.Es6gmUHbYwqWSCWpAYwE_PEoQuUzeNck-re3X8")
+bot.run("YOUR TOKEN")
